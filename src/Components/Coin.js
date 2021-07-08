@@ -1,6 +1,6 @@
 //create arrow function by snippet: rface
 import React from 'react'
-//import css file
+//import css file....
 import './Style1.css'
 
 const Coin = ({name,image,symbol,price,volume,priceChange,marketcap}) => {
